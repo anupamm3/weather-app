@@ -1,16 +1,37 @@
-# weather_app
+# 🌤️ Flutter Weather App
 
-A new Flutter project.
+A beautifully designed weather app built with Flutter. It displays current temperature, weather conditions, hourly forecasts, and additional weather metrics like humidity, wind speed, and pressure — all in a clean and minimal UI.
 
-## Getting Started
+![App Screenshot](assets/weather_ui_preview.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📍 Current temperature and weather condition
+- ⏰ Hourly weather forecast
+- 🌡️ Additional info: humidity, wind speed, pressure
+- 🔄 Pull-to-refresh functionality
+- 🌙 Dark mode UI
+- 🔧 Easily pluggable with weather APIs (like OpenWeatherMap)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI toolkit
+- **Dart** – Language
+- (Optional) **OpenWeatherMap API** – Weather data
+
+---
+
+## 📦 Packages Used
+
+```yaml
+flutter:
+  sdk: flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lucide_icons: ^0.2.0
