@@ -2,7 +2,7 @@
 
 A beautifully designed weather app built with Flutter. It displays current temperature, weather conditions, hourly forecasts, and additional weather metrics like humidity, wind speed, and pressure — all in a clean and minimal UI.
 
-![App Screenshot](assets/weather_ui_preview.png)
+<img src="assets/weather_ui_preview.png" alt="App Screenshot" height='350' width="200"/>
 
 ---
 
@@ -21,7 +21,7 @@ A beautifully designed weather app built with Flutter. It displays current tempe
 
 - **Flutter** – UI toolkit
 - **Dart** – Language
-- (Optional) **OpenWeatherMap API** – Weather data
+- **OpenWeatherMap API** – Weather data
 
 ---
 
